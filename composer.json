@@ -1,5 +1,5 @@
 {
-    "name": "chrisdicarlo/laravel-config-checker",
+    "name": "40nuggets/laravel-config-checker",
     "description": "Package to check that configuration key references actually exist in your config files.",
     "keywords": [
         "Chris Di Carlo",
